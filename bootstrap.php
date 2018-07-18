@@ -4,7 +4,7 @@
  *
  * @package     KnowTheCode\GitContributing
  * @author      hellofromTonya
- * @license     GPL-2.0+
+ * @license     GPL3++
  *
  * @wordpress-plugin
  * Plugin Name: Git Contributing
